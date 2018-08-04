@@ -12,8 +12,20 @@
       ":memory": 1024,
       ":bootstrap": "bootstrap.sh"
     },
-    "puppet.example.com": {
-      ":ip": "192.168.33.40",
+    "jenkins.example.com": {
+      ":ip": "192.168.32.20",
+      "ports": [],
+      ":memory": 1024,
+      ":bootstrap": "bootstrap.sh"
+    },
+    "sonar.example.com": {
+      ":ip": "192.168.32.30",
+      "ports": [],
+      ":memory": 1024,
+      ":bootstrap": "bootstrap.sh"
+    },
+    "nexus.example.com": {
+      ":ip": "192.168.32.40",
       "ports": [],
       ":memory": 1024,
       ":bootstrap": "bootstrap.sh"
