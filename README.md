@@ -13,7 +13,7 @@ Please follow below instructions to setup the virtual machines:
 
  3. Download this github repo and extract the zip file.
 
-    https://github.com/quickfixtech/env-setup.git
+    https://github.com/quickfixtech/vagrant-env-setup.git
 
 4. Download and install GITBashshell (https://git-scm.com/downloads), open git bash shell
       
