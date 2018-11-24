@@ -3,12 +3,12 @@ Please follow below instructions to setup the virtual machines:
 
   1. Download and install vagrant:
 
-    windows:     https://releases.hashicorp.com/vagrant/2.1.1/vagrant_2.1.1_x86_64.msi
-    mac:  https://releases.hashicorp.com/vagrant/2.1.1/vagrant_2.1.1_x86_64.dmg
+    windows:     https://releases.hashicorp.com/vagrant/2.2.1/vagrant_2.2.1_x86_64.msi
+    mac:  https://releases.hashicorp.com/vagrant/2.2.1/vagrant_2.2.1_x86_64.dmg
 
  2. Download and install virtual box:
-      windows:          http://download.virtualbox.org/virtualbox/5.1.6/VirtualBox-5.1.6-110634-Win.exe
-      mac or other:  http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg
+      windows:          https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe
+      mac or other:  https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-OSX.dmg
 
 
  3. Download this github repo and extract the zip file.
