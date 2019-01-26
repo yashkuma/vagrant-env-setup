@@ -32,4 +32,6 @@ Please follow below instructions to setup the virtual machines:
        #vagrant ssh gitlab.example.com
          username /password :  vagrant/vagrant
          Sudo -i
-  
+    OR run below thru bash command prompt:
+	C:\Users\yash_srivastava>ssh vagrant@192.168.32.10
+	vagrant@192.168.32.10's password: vagrant 
